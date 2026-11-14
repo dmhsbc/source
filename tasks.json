@@ -1,0 +1,59 @@
+[
+  { 
+    "id": "task1", 
+    "name": "신청곡 신청 사이트", 
+    "icon": "https://raw.githubusercontent.com/dmhsbc/source/main/main-icon.png", 
+    "tag": "신청곡 신청", 
+    "url": "https://duckmunhs.xyz/", 
+    "bounds": { "width": 669, "height": 900 }
+  },
+  { 
+  "id": "task2", 
+  "name": "D-Panel", 
+  "icon": "https://raw.githubusercontent.com/dmhsbc/source/main/panel-icon.png", 
+  "tag": "신청곡 관리", 
+  "url": "https://duckmunhs.xyz/?page=panel", 
+  "bounds": { "width": 1026, "height": 1003 } 
+  },
+  { 
+  "id": "task3", 
+  "name": "D-Vault", 
+  "icon": "https://raw.githubusercontent.com/dmhsbc/source/main/nvaulticon.png", 
+  "tag": "라이센스 키 저장소", 
+  "url": "https://duckmunhs.xyz/?page=vault", 
+  "bounds": { "width": 683, "height": 623 }
+  },
+  { 
+    "id": "task4", 
+    "name": "D-Key", 
+    "icon": "https://raw.githubusercontent.com/dmhsbc/source/main/nkeyicon.png", 
+    "tag": "라이센스 키 저장소 가입", 
+    "url": "https://duckmunhs.xyz/?page=key", 
+    "bounds": { "width": 683, "height": 623 }
+  },
+  { 
+    "id": "task5", 
+    "name": "사용 설명서", 
+    "icon": "https://raw.githubusercontent.com/dmhsbc/source/main/nnoteicon.png", 
+    "tag":  "사용 설명서.txt", 
+    "url": "https://app.notion.com/p/415b534c8cfd80768a2fd568e5c99fc0?v=415b534c8cfd801ebe49000c6d01a0e3&p=415b534c8cfd80cdba58e8618a728e01&pm=s", 
+    "bounds": { "width": 1083, "height": 1013 }
+  },
+  { 
+    "id": "task6", 
+    "name": "구글폼 건의함", 
+    "icon": "https://raw.githubusercontent.com/dmhsbc/source/main/nnoteicon.png", 
+    "tag":  "구글폼 응답", 
+    "url": "https://docs.google.com/forms/d/1FGovKH19DCKY4sMEBRnKmszK93pqM4rngNBPHoXAiFE/edit?hl=ko#responses", 
+    "bounds": { "width": 669, "height": 900 }
+  },
+  { 
+    "id": "task7", 
+    "name": "유튜브", 
+    "icon": "https://raw.githubusercontent.com/dmhsbc/source/main/ytlogo-icon.png", 
+    "tag":  "유튜브 홈화면", 
+    "url": "https://www.youtube.com/", 
+    "bounds": { "width": 1562, "height": 936 }
+  }
+
+]
