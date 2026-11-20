@@ -41,7 +41,7 @@
   },
   { 
     "id": "task6", 
-    "name": "구글폼 건의함", 
+    "name": "ON AIR | 방송부 소통함", 
     "icon": "https://raw.githubusercontent.com/dmhsbc/source/main/nnoteicon.png", 
     "tag":  "구글폼 응답", 
     "url": "https://docs.google.com/forms/d/1FGovKH19DCKY4sMEBRnKmszK93pqM4rngNBPHoXAiFE/edit?hl=ko#responses", 
@@ -49,11 +49,27 @@
   },
   { 
     "id": "task7", 
+    "name": "이용제한 해제 신청", 
+    "icon": "https://raw.githubusercontent.com/dmhsbc/source/main/nnoteicon.png", 
+    "tag":  "구글시트 응답", 
+    "url": "https://docs.google.com/spreadsheets/d/17ubWHXhZbGx03qUclziQ62Cpcgr2ccSg-cWxSfWVNtk/edit?resourcekey=&gid=599761382#gid=599761382", 
+    "bounds": { "width": 669, "height": 900 }
+  },
+  { 
+    "id": "task8", 
     "name": "유튜브", 
     "icon": "https://raw.githubusercontent.com/dmhsbc/source/main/ytlogo-icon.png", 
-    "tag":  "유튜브 홈화면", 
+    "tag":  "광고 재생 시 자동 음소거 광고 종료시 음소거 자동 해제, 광고 건너띄기 버튼 생성기 자동 건너띄기", 
     "url": "https://www.youtube.com/", 
     "bounds": { "width": 1562, "height": 936 }
+  },
+  { 
+    "id": "task9", 
+    "name": "D-Download", 
+    "icon": "https://raw.githubusercontent.com/dmhsbc/source/main/download-icon.png", 
+    "tag":  "런처 다운로드", 
+    "url": "https://duckmunhs.xyz/?page=download", 
+    "bounds": { "width": 683, "height": 623 }
   }
 
 ]
