@@ -26,7 +26,7 @@
   { 
     "id": "task4", 
     "name": "D-Key", 
-    "icon": "https://raw.githubusercontent.com/dmhsbc/source/main/nkeyicon.png", 
+    "icon": "https://raw.githubusercontent.com/dmhsbc/source/main/nkeyicon.svg", 
     "tag": "라이센스 키 저장소 가입", 
     "url": "https://duckmunhs.xyz/?page=key", 
     "bounds": { "width": 683, "height": 623 }
