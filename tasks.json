@@ -18,7 +18,7 @@
   { 
   "id": "task3", 
   "name": "D-Vault", 
-  "icon": "https://raw.githubusercontent.com/dmhsbc/source/refs/heads/main/icons/vault-icon.png", 
+  "icon": "https://github.com/dmhsbc/source/blob/main/icons/vault-icon.png", 
   "tag": "라이센스 키 저장소", 
   "url": "https://duckmunhs.xyz/?page=vault", 
   "bounds": { "width": 683, "height": 623 }
@@ -26,7 +26,7 @@
   { 
     "id": "task4", 
     "name": "D-Key", 
-    "icon": "https://raw.githubusercontent.com/dmhsbc/source/refs/heads/main/icons/key-icon.png", 
+    "icon": "https://github.com/dmhsbc/source/blob/main/icons/signup-icon.png", 
     "tag": "라이센스 키 저장소 가입", 
     "url": "https://duckmunhs.xyz/?page=key", 
     "bounds": { "width": 683, "height": 623 }
@@ -42,7 +42,7 @@
   { 
     "id": "task6", 
     "name": "ON AIR | 방송부 소통함", 
-    "icon": "https://raw.githubusercontent.com/dmhsbc/source/refs/heads/main/icons/nnote-icon.png", 
+    "icon": "https://github.com/dmhsbc/source/blob/main/icons/note-icon.png", 
     "tag":  "구글폼 응답", 
     "url": "https://docs.google.com/forms/d/1FGovKH19DCKY4sMEBRnKmszK93pqM4rngNBPHoXAiFE/edit?hl=ko#responses", 
     "bounds": { "width": 669, "height": 900 }
@@ -50,7 +50,7 @@
   { 
     "id": "task7", 
     "name": "이용제한 해제 신청", 
-    "icon": "https://raw.githubusercontent.com/dmhsbc/source/refs/heads/main/icons/nnote-icon.png", 
+    "icon": "https://github.com/dmhsbc/source/blob/main/icons/note-icon.png", 
     "tag":  "구글시트 응답", 
     "url": "https://docs.google.com/spreadsheets/d/17ubWHXhZbGx03qUclziQ62Cpcgr2ccSg-cWxSfWVNtk/edit?resourcekey=&gid=599761382#gid=599761382", 
     "bounds": { "width": 669, "height": 900 }
@@ -59,17 +59,32 @@
     "id": "task8", 
     "name": "유튜브", 
     "icon": "https://raw.githubusercontent.com/dmhsbc/source/refs/heads/main/icons/ytlogo-icon.png", 
-    "tag":  "광고 재생 시 자동 음소거 광고 종료시 음소거 자동 해제, 광고 건너띄기 버튼 생성기 자동 건너띄기", 
+    "tag":  "광고 재생 시 자동 건너띄기", 
     "url": "https://www.youtube.com/", 
     "bounds": { "width": 1562, "height": 936 }
   },
   { 
     "id": "task9", 
     "name": "D-Download", 
-    "icon": "https://raw.githubusercontent.com/dmhsbc/source/refs/heads/main/icons/download-icon.png", 
+    "icon": "https://github.com/dmhsbc/source/blob/main/icons/download-icon.png", 
     "tag":  "런처 다운로드", 
     "url": "https://duckmunhs.xyz/?page=download", 
     "bounds": { "width": 683, "height": 623 }
+  },
+  { 
+    "id": "task10", 
+    "name": "Status", 
+    "icon": "https://github.com/dmhsbc/source/blob/main/icons/status-icon.png", 
+    "tag":  "스탯", 
+    "url": "https://duckmunhs.xyz/?page=status", 
+    "bounds": { "width": 1026, "height": 1003 } 
+  },
+  { 
+    "id": "task11", 
+    "name": "스탯 서비스 공지 발송 패널", 
+    "icon": "https://github.com/dmhsbc/source/blob/main/icons/notice-icon.png", 
+    "tag":  "스탯 서비스 공지 발송 패널", 
+    "url": "https://duckmunhs.xyz/?page=statuspanel", 
+    "bounds": { "width": 1026, "height": 1003 } 
   }
-
 ]
